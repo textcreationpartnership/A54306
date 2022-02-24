@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Right honourable, I am your cousin, (though a prisoner) descended from the body of Henry Percy 5th. Earl of Northumberland</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54306</idno>
+            <idno type="STC">Wing P1458A</idno>
+            <idno type="STC">ESTC R218760</idno>
+            <idno type="EEBO-CITATION">99830331</idno>
+            <idno type="PROQUEST">99830331</idno>
+            <idno type="VID">34782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2035:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Right honourable, I am your cousin, (though a prisoner) descended from the body of Henry Percy 5th. Earl of Northumberland</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, James, 1619-1690? --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34782:1"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Honourable,</hi>
+                     </salute>
+                  </opener>
+                  <p>I Am your Couſin, (though a Priſoner) deſcended from the Body of <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Percy</hi> 5th. Earl of <hi>Northumberland;</hi> By which Deſcent I am Couſin and next Heir-male to <hi>Joſceline Percy</hi> your Father the late and 11th. Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> Deceaſed. A Priſon is a Grave for Men alive; But when <hi>Naboth</hi> was ſton'd to death, then <hi>Ahab</hi> took poſteſſion of the Vinyard, 1 <hi>Kings.</hi> 21.18. <hi>And walk<g ref="char:EOLhyphen"/>ing in the Garden among the Beds of Pleaſure, then God ſent his Prophet</hi> Elias, <hi>to tell</hi> Ahab <hi>of his Tranſgreſſion,</hi> (notwithſtanding he was a King.) Ezekiel 46.18. <hi>When</hi> Belſhazzar <hi>wat quaffing in the Gold and Silver Veſſels of the Temple, then ap<g ref="char:EOLhyphen"/>pear'd the Hand-writing upon the Wall,</hi> Dan. 5. When your late Husband the Lord <hi>Ogle</hi> went about to aſſume the name of <hi>Percy,</hi> and to have the <hi>Percies</hi> Lands ſettled upon him by Act of <hi>Parliament,</hi> then God call'd him to Accompt; Therefore let Your Ladiſhip to Juſtice ſpeedily, and ſubmit to Truth in Time, for fear God calls You to Accompt alſo. I believe Your Servants and Agents have rendred Me to You to be a Monſter, and not a Man; Be not too ſubject to Believe Them, but ſee with your own Eys, and hear with your own Ears; and admit Me into Your preſerice, for I have ſomthing to offer <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> will add Fame to Your Honour, and Rank You with thoſe Two Worthy Women of our Family, the Lady <hi>Agnes Percy,</hi> who preſerved the <hi>Percies</hi> Name, and the Lady <hi>Lucy,</hi> that ſettled the Eſtate upon the Heirs Males of the <hi>Percies</hi> for ever; And for ever that Eſtate muſt attend the Title; And the Fines can never be recover'd but by the true Heir-Male of the <hi>Percies</hi> Mr. <hi>Gee</hi> can inform You (if he pleaſes,) how I was at <hi>Petworth</hi> in the Year 1654. And then, and there made my Claim as I do now; And before Mr. <hi>Clark</hi>'s Tryal, Your Agents, with their Councel, would have own'd Me to be the next Heir, and would have aſſiſted Me for the Title with their Books, Pedigree and Records: And alſo how I met with Mr. <hi>Champian</hi> and Mr. <hi>Gee</hi> at Doctor <hi>Lampley's</hi> Houſe, and there made out my Pedigree clear, only I could not find out my Great Grand-fathers Name; Firſt, it was a very hard Name; And Secondly, Mr. <hi>Champian</hi> kept it ſecret till he was forc'd to declare upon his Oath, that Sir <hi>Ingelram Percy</hi> was Married, and had Sons and Daughters, at Sir <hi>John Coppleſton</hi>'s Tryal for <hi>Cannington</hi> and <hi>Rodaway</hi> Lands in <hi>Somerſetſhire.</hi> Thirdly, The <hi>Heralds</hi> had altogether neglected the Collateral Line of the <hi>Percies.</hi> Now all my Aim is really to beget a right underſtanding, ſo that I may remain,</p>
+                  <closer>
+                     <signed>Your Ladiſhips Real, Cordial, and Faithful Kinſman, and moſt Humble Servant, <hi>JAMES PERCY.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>What I have to declare to your Ladyſhip is not convenient to be oommitted to writing, but aſsure your ſelf it really tends to your preſent Welfare, and future Peace and Proſperity.</p>
+            <p>An Anſwer will find me in the <hi>Kings-Bench-Rules,</hi> at the Written Table at Captain <hi>Dan<g ref="char:EOLhyphen"/>cer's</hi> Houſe in <hi>Lombard-ſtreet,</hi> near the <hi>Bowling-green,</hi> in the Borough of <hi>Southwark.</hi>
+            </p>
+            <p>This Letter was preſented the day of the date hereof, and the Claymant hath printed it, that the world may ſee that a true <hi>Percy</hi> is not aſhamed of his Innocent and Juſt Cauſe, nor affraid of his Potent Opponents; <hi>For he whom I truſt in, is grower than they,</hi> 5 Eccleſ. ver. 8.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>☞ NOw in theſe our days there is no Prophet <hi>God, Michaia, Elijah,</hi> nor Interpreters of Dreams, like <hi>Joſeph</hi> and <hi>Daniel,</hi> that dares preſume to ſpeak to Kings as they did in thoſe days.</p>
+                  <p>Therefore <hi>James Percy,</hi> the true Heir male of the <hi>Percies,</hi> Earls of <hi>Northumberland,</hi> humbly makes bold with the Prophet <hi>Ezekiel,</hi> cap. 46. ver. 18. <hi>Moreover the Prince ſhall not take of the Peoples Inheritance by oppreſſion, but he ſhall give his Sons Inheritance out of his own Poſſeſſion, that my People be not ſcattered every man from his Poſſeſſion.</hi>
+                  </p>
+                  <pb facs="tcp:34782:2"/>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to that purpofe His Majeſty ordered <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> willing to go to the Attorney General, to <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> which the Clavmants Sollicitor, Mr. Thomas <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Attorney, General ſaid, <hi>He could not ſign</hi> Percie's <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for the Counteſs of</hi> Northumberland. And the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> dethize the Claimant in his Proccedings, and to <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> on and been ſhelter'd under Priviledge, which hath <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>And from that time Mr. <hi>Swayn</hi> (the Glaymant <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> two ſticks<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for whilſt <hi>James Percy</hi> was proſecuting <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Ejectments in the North, the Sollicitor had contrly'd the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> were begg'd, diſpos'd and ſcatter'd before the Claymant, <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Co-warrant, with other Writings, was loſt, which coſt a conſiderable <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> then arreſted his Clyent <hi>James Percy</hi> in three ſeveral Suits at Law, wh<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> continued three years; But the Sollicitor <hi>Swayn</hi> was overthrown in all the 3 Actions; more <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Claymant <hi>James Percy</hi> was thoſe travels poiſoned at <hi>New-Caſtle,</hi> arreſted at <hi>York</hi> in two Actions of 20000 <hi>l.</hi> each A <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> then durſt not proceed at Law, but let the Actions fall, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 40 <hi>s.</hi> Coſt, a poor <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for a night and two days Impriſonment, and maintaining my two Men and three Horſes, beſides the Charge of ſpunging Bums; And the Actions were in the Lord of <hi>Eſſex,</hi> and Mr. <hi>Clark,</hi> and others Names: And to fill up the meaſure of malice, they publiſhed in the <hi>Engliſh Gazette,</hi> and the <hi>French Gazette, That the Claymant was an Im<g ref="char:EOLhyphen"/>poſtor;</hi> And Mr. <hi>Blackſton</hi> ſaid in all theſe Courts, <hi>That the Claymant's Name was not</hi> Percy, but declared him to be a Baſtard; with many more ſcandalous wordr, which were proved at that Tryal before the Lord Chief Juſtice <hi>Scroggs,</hi> notwithſtanding he diſcharged Mr. <hi>Black<g ref="char:EOLhyphen"/>ſton</hi> and Sir <hi>George Jeffreys</hi> at that Tryal, took Fees on both ſides, ſo the Claymant <hi>James Percy</hi> was clearly bought and ſold, and proved to his Damage 12000 <hi>l.</hi> Beſides, it was the occaſion of this his preſent Impriſonment, upon the Writs of Error that were ſo ſtrangely diſ<g ref="char:EOLhyphen"/>miſs'd the Houſe of Lords without any Hearing; notwithſtanding the renewing and conti<g ref="char:EOLhyphen"/>nuing after every Prorogation, coſt in all above 300 <hi>l.</hi> And now the Claymant <hi>James Percy</hi> hath uſed all ways and means poſſible, (as by his Petition and publick Prints appears) and cannot proceed further without the Aſſiſtance of the Honourable Houſe of Commons. His Majeſty is much troubled, and the Claymant really believes that His Majeſty had a cordial Deſire to he<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and ſee the Cauſe determined, as by His coming up to the Bar of the Houſe of Lords, that day the Hearing ſhould have been had. Beſides, His Majeſty may perceive, I ſhall never leave my Claim, till Juſtice be done, by reaſon I now know it is my Right by Birth and Bloud, and that the ſole power of creating and preſerving Honour reſts in His Royal Breaſt, as Flowers in the Crown: And by the Coronation-Oath, the King cannot take Titles from one Peer, to give to another Peer. But as God hath in mercy reſtored His Majeſty to His Crown and Kingdoms, even ſo ought the King in Juſtice to reſtore every Loyal Subject to the Birth-right, Title and Inheritance of his Anceſtors. It was very hard at firſt for the Claymant to find out the Name of his great Grandfather, by reaſon he was in his Childhood brought up amongſt his Mothers Relations; And in the troubleſome times (he being a Roy<g ref="char:EOLhyphen"/>alliſt) was forced to abſcond and travel for many years, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> But the Adverſaries did wildernize the Claymant, in hiding his great Grandfathers Chriſtian Name from him: For Sir <hi>Ingelram Percy</hi> was the Claymant <hi>James Percie</hi>'s Great Grandfather, and youngeſt Son of <hi>Henry Percy</hi> 5th. Earl of <hi>Northumberland;</hi> and this Collateral Line was never attain<g ref="char:EOLhyphen"/>ted; and therefore ought to be reſtored according to <hi>Henry Percy</hi> the 5th. Earls Patent, and not under the Patent of the New-Creation by Queen <hi>Mary</hi> for <hi>Thomas Percy,</hi> 2d. Son of the 5th. Earl, was attainted, but Sir <hi>Ingelram Percy</hi> 3d. Son was Innocent, and ſo hath his Iſſue con<g ref="char:EOLhyphen"/>tinued to this day: And therefore prays for ſpeedy Juſtice: Juſtice removes oppreſſion, Glori<g ref="char:EOLhyphen"/>fies God, Honours the King, Rejoyces the People, puts an end to your troubles, and ratifies Peace, for which the Petitioner prays.</p>
+                  <p>For <hi>Henry Percy,</hi> 5th. Earl, Great Great Grandfather, had Sir <hi>Ingelram Percy,</hi> Great Grandfather, who had <hi>Henry Percy</hi> Grandfather, and he had <hi>Henry Percy</hi> Father of the Claymant.</p>
+                  <closer>
+                     <signed>JAMES PERCY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
